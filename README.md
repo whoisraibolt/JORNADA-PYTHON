@@ -136,7 +136,9 @@ Trilhas e tópicos que serão úteis na sua jornada de aprendizado para se torna
 
 | Curso | Plataforma | Modalidade | Certificado | Tags |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [Python 3](https://www.cursoemvideo.com "Python 3") | Curso em Vídeo | Gratuito | Sim (R$ 20,00) | `Python` |
+| [Python 3 – Mundo 1](https://www.cursoemvideo.com/curso/python-3-mundo-1 "Python 3 – Mundo 1") | Curso em Vídeo | Gratuito | Sim (R$ 20,00) | `Python` |
+| [Python 3 – Mundo 2](https://www.cursoemvideo.com/curso/python-3-mundo-2 "Python 3 – Mundo 2") | Curso em Vídeo | Gratuito | Sim (R$ 20,00) | `Python` |
+| [Python 3 – Mundo 3](https://www.cursoemvideo.com/curso/python-3-mundo-3 "Python 3 – Mundo 3") | Curso em Vídeo | Gratuito | Sim (R$ 20,00) | `Python` |
 | [ Programação em Python do básico ao avançado](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado " Programação em Python do básico ao avançado") | Udemy | Pago | Sim | `Python` |
 | [Estrutura de Dados e Algoritmos em Python: O Guia Completo](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo "Estrutura de Dados e Algoritmos em Python: O Guia Completo") | Udemy | Pago | Sim | `Python` |
 | [Expressões Regulares em Python](https://youtube.com/playlist?list=PLbIBj8vQhvm1VnTa2Np5vDzCxVtyaYLMr "Expressões Regulares em Python") | YouTube | Gratuito | Não | `Python` |
@@ -200,13 +202,13 @@ Trilhas e tópicos que serão úteis na sua jornada de aprendizado para se torna
 | Curso | Plataforma | Modalidade | Certificado | Tags |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [Introdução ao Agile Scrum](https://www.voitto.com.br/digital/introducao-agile-scrum "Introdução ao Agile Scrum") | Voitto | Gratuito | Sim | `Scrum`, `Métodologias Ágeis` |
-| [Introdução à OKRs](https://hr-rocks-academy.teachable.com/p/curso-de-introducao-a-okrs "Introdução à OKRs") | HR.Rocks! | Gratuito | `OKRs`, `Métodologias Ágeis` |
+| [Introdução à OKRs](https://hr-rocks-academy.teachable.com/p/curso-de-introducao-a-okrs "Introdução à OKRs") | HR.Rocks! | Gratuito | Sim | `OKRs`, `Métodologias Ágeis` |
 | [DevOps reforça cultura colaborativa e visão ponta a ponta](https://www.udemy.com/course/devops-reforca-cultura-colaborativa-e-visao-ponta-a-ponta "DevOps reforça cultura colaborativa e visão ponta a ponta") | Udemy | Pago | Sim | `DevOps`, `Métodologias Ágeis` |
 | [DevOps potencializa implantação de qualidade e agilidade](https://www.udemy.com/course/devops-acelera-implantacao-de-qualidade-e-potencializa-scrum "DevOps potencializa implantação de qualidade e agilidade") | Udemy | Pago | Sim | `DevOps`, `Métodologias Ágeis` |
 | [Devops Essentials](https://4linux.com.br/cursos/treinamento/devops-essentials "Devops Essentials") | 4 Linux | Gratuito | Sim | `DevOps`, `Métodologias Ágeis` |
-| [Azure DevOps - Integração Contínua e Entrega Contínua](https://www.udemy.com/course/azuredevops "Azure DevOps: Integração Contínua e Entrega Contínua") | Udemy | Pago | `DevOps`, `Métodologias Ágeis` |
-| [Azure Pipelines - CI/CD, Docker e Kubernetes no Azure DevOps](https://www.udemy.com/course/azurepipelines "Azure Pipelines: CI/CD, Docker e Kubernetes no Azure DevOps") | Udemy | Pago | `DevOps`, `Docker`,  `Métodologias Ágeis` |
-| [Azure Boards: Gerenciamento de Projetos com Azure DevOps](https://www.udemy.com/course/azureboards "Azure Boards: Gerenciamento de Projetos com Azure DevOps") | Udemy | Pago | `DevOps`, `Métodologias Ágeis` |
+| [Azure DevOps - Integração Contínua e Entrega Contínua](https://www.udemy.com/course/azuredevops "Azure DevOps: Integração Contínua e Entrega Contínua") | Udemy | Pago | Sim | `DevOps`, `Métodologias Ágeis` |
+| [Azure Pipelines - CI/CD, Docker e Kubernetes no Azure DevOps](https://www.udemy.com/course/azurepipelines "Azure Pipelines: CI/CD, Docker e Kubernetes no Azure DevOps") | Udemy | Pago | Sim | `DevOps`, `Docker`,  `Métodologias Ágeis` |
+| [Azure Boards: Gerenciamento de Projetos com Azure DevOps](https://www.udemy.com/course/azureboards "Azure Boards: Gerenciamento de Projetos com Azure DevOps") | Udemy | Pago | Sim | `DevOps`, `Métodologias Ágeis` |
 
 <h3 align="justify"> 🐍  Jornada SQL </h2>
 
@@ -233,3 +235,9 @@ Trilhas e tópicos que serão úteis na sua jornada de aprendizado para se torna
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [Lei Geral de Proteção de Dados (LGPD)](https://www.ev.org.br/cursos/lei-geral-de-protecao-de-dados-lgpd "Lei Geral de Proteção de Dados (LGPD)") | Fundação Bradesco | Gratuito | Sim | `LGPD` |
 | [Inteligência Artificial e o Novo Contexto da Cultura Digital](https://www.ev.org.br/cursos/inteligencia-artificial-e-o-novo-contexto-da-cultura-digital "Inteligência Artificial e o Novo Contexto da Cultura Digital") | Fundação Bradesco | Gratuito | Sim | `Artificial Intelligence` |
+
+<h3 align="justify"> 🐍  Jornada da Inclusão </h2>
+
+| Curso | Plataforma | Modalidade | Certificado | Tags |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+| [Libras Básico](https://www.ginead.com.br/curso/curso-online-gratis-libras-basico "Libras Básico") | GINEAD | Gratuito | Sim (R$ 39,70) | `Libras`, `Inclusão` |
