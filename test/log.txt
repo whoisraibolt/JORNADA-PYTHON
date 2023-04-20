@@ -1,0 +1,4 @@
+INFO:root:Mensagem de informa��o
+WARNING:root:Mensagem de aviso
+ERROR:root:Mensagem de erro
+CRITICAL:root:Mensagem cr�tica

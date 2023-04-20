@@ -1,0 +1,2 @@
+ERROR:root:Ocorreu um erro ao dividir por zero!
+CRITICAL:root:Ocorreu um erro inesperado!
