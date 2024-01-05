@@ -1,2 +1,0 @@
-ERROR:root:Mensagem de erro
-CRITICAL:root:Mensagem crítica
