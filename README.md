@@ -1,5 +1,7 @@
 <h1 align="justify"> 📑 Dicas & Recomendações </h1>
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21982993-1682D4)](https://doi.org/10.5281/zenodo.21982993)
+
 Trilhas e tópicos que serão úteis na sua jornada de aprendizado para se tornar um(a) Cientista da Computação. Focado na Linguagem de Programação Python.
 
 <h3 align="justify"> 🐍  Jornada Python </h2>
