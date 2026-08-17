@@ -1,15 +1,15 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this material, please cite it as below."
 type: software
-title: "Jornada Python: trilhas e topicos de aprendizagem para a formacao em Ciencia da Computacao"
-abstract: "Material didatico aberto reunindo trilhas e topicos de estudo uteis na jornada de formacao em Ciencia da Computacao, com enfase na linguagem de programacao Python."
+title: "Jornada Python: trilhas e tópicos de aprendizagem para a formação em Ciência da Computação"
+abstract: "Material didático aberto reunindo trilhas e tópicos de estudo úteis na jornada de formação em Ciência da Computação, com ênfase na linguagem de programação Python."
 authors:
   - family-names: Raibolt
     given-names: Alexandra
     orcid: "https://orcid.org/0000-0002-8982-596X"
 repository-code: "https://github.com/whoisraibolt/JORNADA-PYTHON"
 license: MIT
-version: v1.0.0
+version: v1.0.1
 date-released: "2026-08-17"
 keywords:
   - educacao
